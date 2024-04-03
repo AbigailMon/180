@@ -9,3 +9,4 @@ def fib(n):
 n = int(input("Enter the number of terms: "))
 for i in range(n):
     print(fib(i), end=" ")
+    print("vroom vroom")
